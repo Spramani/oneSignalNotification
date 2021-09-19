@@ -1,0 +1,16 @@
+PODS:
+  - OneSignalXCFramework (3.8.0)
+
+DEPENDENCIES:
+  - OneSignalXCFramework (< 4.0, >= 3.0.0)
+
+SPEC REPOS:
+  trunk:
+    - OneSignalXCFramework
+
+SPEC CHECKSUMS:
+  OneSignalXCFramework: 20b6eea6af6617116f4bd76772adae5892e21bf1
+
+PODFILE CHECKSUM: b53bfc5af6d2656f0e53c8c4376d3b649a44c19c
+
+COCOAPODS: 1.10.1
